@@ -1,0 +1,4 @@
+month,da_price_mean_eur_mwh,da_price_p10_eur_mwh,da_price_p90_eur_mwh,gas_usd_mmbtu,gas_eur_mwh_th,coal_usd_t,coal_eur_mwh_th,brent_usd_bbl,usd_per_eur,eua_eur_t,eua_source_note
+2026-08,126.89424059139785,3.8039999999999994,188.81325000000004,21.11,62.132069411856804,96.8,11.965889515459704,90.9,1.159309523809524,76.02,H1-2026 German auction VWAP (Q1 75.95 / Q2 76.12); carried as 2026 proxy until full-year DEHSt figure
+2026-09,144.8201215277778,12.2655,230.375,25.42,75.33650307675519,98.2,12.223158542720636,116.8,1.1513227272727276,76.02,H1-2026 German auction VWAP (Q1 75.95 / Q2 76.12); carried as 2026 proxy until full-year DEHSt figure
+2026-10,159.8928888888889,70.59425,237.4335,,,,,,,76.02,H1-2026 German auction VWAP (Q1 75.95 / Q2 76.12); carried as 2026 proxy until full-year DEHSt figure

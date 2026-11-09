@@ -8,9 +8,6 @@ dist/
 build/
 data/raw/*
 !data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
 .DS_Store
 .coverage
 htmlcov/
-*.parquet
