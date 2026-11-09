@@ -1,0 +1,51 @@
+{
+  "period": {
+    "start": "2026-08-01",
+    "end": "2026-10-15"
+  },
+  "hourly": {
+    "start": "2026-08-01 00:00:00+02:00",
+    "end": "2026-10-15 23:00:00+02:00",
+    "da_price_mean": 140.48313733552632,
+    "da_price_min": -18.995,
+    "da_price_max": 697.3075,
+    "da_price_missing_pct": 0.0,
+    "n_negative_price_hours": 94,
+    "n_negative_price_intervals": 94,
+    "n_rows": 1824,
+    "ok": true
+  },
+  "monthly": {
+    "months": 3,
+    "gas_usd_mmbtu_last": 25.42,
+    "eua_eur_t_last": 76.02,
+    "da_price_mean_overall": 143.86908366935484,
+    "n_rows": 3,
+    "ok": true
+  },
+  "installed_power_rows": 29,
+  "conversions": {
+    "MMBTU_PER_MWH": 3.412141156,
+    "COAL_MWH_TH_PER_T": 6.978,
+    "notes": "ASSUMED engineering conversions; see docs/sources.md"
+  },
+  "measured_facts": {
+    "n_hourly_rows": 1824,
+    "da_price_mean_eur_mwh": 140.48,
+    "da_price_min_eur_mwh": -19.0,
+    "da_price_max_eur_mwh": 697.31,
+    "negative_price_hour_share_pct": 5.15,
+    "months": 3,
+    "last_month": "2026-09",
+    "last_gas_usd_mmbtu": 25.42,
+    "last_gas_eur_mwh_th": 75.34,
+    "last_eua_eur_t": 76.02,
+    "last_da_price_mean_eur_mwh": 144.82,
+    "installed_solar_ac_gw_latest": 120.56,
+    "installed_period_latest": "2026-01-01T00:00:00+01:00",
+    "installed_wind_onshore_gw_latest": 71.77,
+    "residual_load_mean_mw": 23136.8,
+    "residual_load_min_mw": -13991.3,
+    "residual_load_max_mw": 59477.8
+  }
+}
